@@ -23,20 +23,6 @@ https://github.com/mobizt/Firebase-ESP-Client/blob/main/examples/RTDB/Basic/Basi
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "JonatansM"
-#define WIFI_PASSWORD "miranda123"
-
-// Insert Firebase project API Key
-//#define API_KEY "AIzaSyA5lCOMTTizt0pVkJbSo7Fe3VzC1n-jzNk"
-#define API_KEY "AIzaSyAAQeCvSJtMS9fAs97nY180NEHI4aFIneQ"
-
-// Insert RTDB URLefine the RTDB URL */
-//#define DATABASE_URL "https://esp-firebase-demo-cel-default-rtdb.europe-west1.firebasedatabase.app/"
-#define DATABASE_URL "https://smot-c0e94-default-rtdb.europe-west1.firebasedatabase.app/"
-
-#define USER_EMAIL "test1234@gmail.com"
-#define USER_PASSWORD "123456"
-
 //Define Firebase Data object
 FirebaseData fbdo;
 
